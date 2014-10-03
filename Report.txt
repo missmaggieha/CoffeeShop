@@ -1,0 +1,38 @@
+Report
+ 
+BTP400 Assignment 2
+Authors: Pedro Bellesa and Maggie Ha
+Date: April 1, 2014
+ =======
+ 
+a brief report that addresses the following questions:
+    A checklist of features implemented and NOT implemented according to your project proposal
+        - google maps
+        - no search bar
+        - less categories (of coffee to select from)
+    
+    What are the REASON(S) that some proposed features are not implemented?
+        - lack of time
+        - complexity of Android platform
+        - API key requirements for Google Maps
+
+    What are the problems and challenges that you have encountered?
+        - Figuring out the multithreaded concurrencies
+        - JRE/JDK version error/conflicts
+        - Eclipse bugs (missing libraries, unreferenced libraries, corrupted files)
+        - How Android works
+
+    What have you learned in doing this project-based assignment?
+        - Proposal's scope is wider than our actual finished app
+
+    What is your team-work experience?
+
+Pedro: Maggie’s has been a wonderful teammate to work with, we’ve been working on projects together for a while now and are work flow is very good and pretty relaxed. Even when we’re stressed about due dates and bugs we can still laugh about it. 
+
+Maggie: It was a good experience. We both took a task/role and followed through until the end. We work really well together; in getting along, programming together and debugging. Fun experience =)
+
+
+    
+    
+    
+    
